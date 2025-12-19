@@ -13,3 +13,4 @@ This repository is used to complete the Codex Vault GitHub activity.
 - Commit 8: small cleanup
 - Commit 9: improve readability
 - Commit 10: documentation refactor
+- Commit 11: add notes section
