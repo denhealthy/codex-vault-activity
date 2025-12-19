@@ -8,3 +8,4 @@ This repository is used to complete the Codex Vault GitHub activity.
 - Commit 3: documentation update
 - Commit 4: minor text change
 - Commit 5: formatting improvement
+- Commit 6: add activity notes
