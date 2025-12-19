@@ -23,3 +23,4 @@ This repository is used to complete the Codex Vault GitHub activity.
 - Commit 18: content polish
 - Commit 19: update description
 - Commit 20: cleanup pass
+- Commit 21: wording improvement
